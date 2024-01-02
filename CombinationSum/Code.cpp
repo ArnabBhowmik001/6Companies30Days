@@ -1,4 +1,5 @@
-
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
 void findall( vector<vector<int>>& ans,int num,vector<int>& ds,int t,int k){
